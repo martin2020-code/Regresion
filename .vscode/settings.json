@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "minicua_v2.30425.C": "cpp"
+    }
+}
